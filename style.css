@@ -1,10 +1,11 @@
 body { font-family: Arial, sans-serif; margin: 0; }
-header {background: black; color: white; text-align: center; padding: 40px}
+header {background: powderblue; color: white; text-align: center; padding: 50px}
 section {padding: 39px;}
-h2 {color:darkblue;}
-footer {background: black; color: white; text-align: center; padding: 20px; }
+h1 {color: tomato}
+h2 {color:rgb(32, 139, 0);}
+footer {background: brown; color: white; text-align: center; padding: 33px; }
 html { scroll-behavior: smooth;}
- nav a { text-decoration: none; color: black; }
+ nav a { text-decoration: solid ; color: rgb(0, 0, 0); }
   nav a:hover {  color: red; }
     
 
