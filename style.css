@@ -1,8 +1,8 @@
 body { font-family: Arial, sans-serif; margin: 0; }
 header {background: powderblue; color: white; text-align: center; padding: 50px}
 section {padding: 39px;}
-h1 {color: blue; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
-h2 {color: purple;}
+h1 {color: black; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+h2 {color: goldenrod;}
 h3 {color: darkgreen;}
 footer {background: brown; color: white; text-align: center; padding: 33px; }
 html { scroll-behavior: smooth;}
