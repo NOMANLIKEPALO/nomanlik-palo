@@ -1,8 +1,9 @@
 body { font-family: Arial, sans-serif; margin: 0; }
 header {background: powderblue; color: white; text-align: center; padding: 50px}
 section {padding: 39px;}
-h1 {color: tomato}
-h2 {color:rgb(32, 139, 0);}
+h1 {color: blue; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+h2 {color: purple;}
+h3 {color: darkgreen;}
 footer {background: brown; color: white; text-align: center; padding: 33px; }
 html { scroll-behavior: smooth;}
  p {color: black;}
